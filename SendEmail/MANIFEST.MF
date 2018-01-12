@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Class-Path: libs/activation.jar libs/additionnal.jar libs/javax.mail-1.4.5.jar
+Main-Class: com.sunmi.mail.SendEmail
